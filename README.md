@@ -16,7 +16,7 @@ This folder contains the full Pixel Monster interactive game with the mouse pres
 "press_mouse_to_feed" file is the main js coding file for the project.
 The version of p5 is 1.9.0
 
-There are 12 files to showcase the result:
+There are 11 files to showcase the result:
 2 ttf files: text fonts of the game.
 sketch, monster, cloud, flower, food.js: main sketches for the game, presenting the specific pattern and statement.
 p5.js: the library which was been import.
