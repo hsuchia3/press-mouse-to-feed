@@ -1,7 +1,7 @@
 # press-mouse-to-feed
 Press mouse to feed is a game to feed a monster mushrooms. If the mouse is pressed, there will drop one mushroom on the top to feed the monster. The size of the mushroom is based on the timelength when pressing the mouse, the longer you press, the bigger the mushroom, and vice versa.
 
-This folder contains the full Pixel Monster interactive game with the mouse pressed, originally created with a microphone.
+This folder contains the full Pixel Monster interactive game with the mouse pressed, originally triggered with a microphone.
 
 - The size of the mushroom is called "nutrition", which manipulates the size of the monster, the bigger mushrooms make the monster get bigger.
 
