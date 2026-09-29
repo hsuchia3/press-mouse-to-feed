@@ -14,12 +14,13 @@ This folder contains the full Pixel Monster interactive game with the mouse pres
 - Hiding words present the explanation and the statement of the microphone setting, the user can also unhide the microphone setting and check if it works on the laptop(please import the p5 microphone in html file).
 
 "press_mouse_to_feed" file is the main js coding file for the project.
-The version of p5 is 1.9.0
+The version of p5.js is 1.9.0
 
 There are 11 files to showcase the result:
 2 ttf files: text fonts of the game.
 sketch, monster, cloud, flower, food.js: main sketches for the game, presenting the specific pattern and statement.
 p5.js: the library which was been import.
+p5.sound.min.js: incase you want to try the microphone trigger system, use this file only after you've set up the microphone settings.
 index.html
 style.css
 
